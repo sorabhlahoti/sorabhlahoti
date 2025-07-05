@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6b8c57bd-1ede-42e2-8f40-a5db1b7f63bc)👋 Hi there! I'm Sorabh Lahoti
+👋 Hi there! I'm Sorabh Lahoti
 
 🚀 Full-Stack Developer | Ex-Frontend Developer at RBM Software | NIT Rourkela CSE Graduate
 
