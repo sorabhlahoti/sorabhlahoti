@@ -43,7 +43,7 @@ Currently working on **Collab AI** — a real-time collaborative code editor wit
 
 ### 📫 **Let’s Connect**
 I’m actively seeking **backend / full-stack roles** — open to collaborating on challenging products!  
-👉 [LinkedIn](https://www.linkedin.com/in/sorabh-lahoti-b510b6211/) | 📧 sorabhlahoti07@gmail.com | Whatsapp No.: +917878254790
+👉 [LinkedIn](https://www.linkedin.com/in/sorabh-lahoti-b510b6211/) | 📧 sorabhlahoti07@gmail.com | Whatsapp No: +917878254790
 
 ---
 
