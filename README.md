@@ -16,7 +16,7 @@ Currently working on **Collab AI** — a real-time collaborative code editor wit
 
 ### 🏆 **A bit about me**
 - 🎓 B.Tech in CSE from **NIT Rourkela**
-- 👨‍💻 900+ DSA problems solved on **LeetCode**
+- 👨‍💻 900+ DSA problems solved on **LeetCode** and other platforms
 - 📈 Ex-RBM Software: Maintained large-scale e-commerce UI & Build a full CRM from scratch.
 
 ---
